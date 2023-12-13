@@ -71,8 +71,8 @@ int main() {
 
     inputFile.close();
 
-    cout << "Paer 1: The sum of all IDs from possible games is: " << sumedIDs << endl;
-    cout << "Paer 2: The the sum of the power of these sets is: " << summedIDsLowestPlayable << endl;
+    cout << "Part 1: The sum of all IDs from possible games is: " << sumedIDs << endl;
+    cout << "Part 2: The the sum of the power of these sets is: " << summedIDsLowestPlayable << endl;
 
     return 0;
 }

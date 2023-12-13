@@ -4,7 +4,7 @@ project(Day2 VERSION 0.1.0 LANGUAGES C CXX)
 include(CTest)
 enable_testing()
 
-add_executable(Day2 main.cc)
+add_executable(Day2 main.cc CubeSet.cc CubeSet.hh)
 
 add_custom_target(copy_file
     COMMAND ${CMAKE_COMMAND} -E copy ${CMAKE_CURRENT_SOURCE_DIR}/input.txt ${CMAKE_CURRENT_BINARY_DIR}/input.txt
