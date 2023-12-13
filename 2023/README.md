@@ -1,0 +1,26 @@
+# Advent of Code 2023
+
+- [x] Day 1 [Trebuchet?!](https://github.com/StefanRifel/AdventofCode2023/blob/main/Day1/)
+- [x] Day 2 [Cube Conundrum](https://github.com/StefanRifel/AdventofCode2023/tree/main/Day2)
+- [ ] Day 3 [Gear Ratios](https://github.com/StefanRifel/AdventofCode2023/tree/main/Day3)
+- [x] Day 4 [Scratchcards](https://github.com/StefanRifel/AdventofCode2023/tree/main/Day4)
+- [ ] Day 5 [If You Give A Seed A Fertilizer]()
+- [ ] Day 6
+- [ ] Day 7
+- [ ] Day 8
+- [ ] Day 9
+- [ ] Day 10
+- [ ] Day 11
+- [ ] Day 12
+- [ ] Day 13
+- [ ] Day 14
+- [ ] Day 15
+- [ ] Day 16
+- [ ] Day 17
+- [ ] Day 18
+- [ ] Day 19
+- [ ] Day 20
+- [ ] Day 21
+- [ ] Day 22
+- [ ] Day 23
+- [ ] Day 24
