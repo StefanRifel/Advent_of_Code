@@ -46,9 +46,9 @@ void work(vector<vector<Engine*>>& engine, int& sum, const int& count){
     Symbol surrSymb;
 
     for(int row = 0; row < count; row += 2){
-        int sizeFirst {engine[row].size()};
-        int sizeSecound {engine[row].size()};
-        int sizeThird {engine[row].size()};
+        long unsigned int sizeFirst {engine[row].size()};
+        long unsigned int sizeSecound {engine[row].size()};
+        long unsigned int sizeThird {engine[row].size()};
 
 
         for(int col = 0; col < sizeFirst; col++){
@@ -74,7 +74,7 @@ void work(vector<vector<Engine*>>& engine, int& sum, const int& count){
 
 int main(void){
 
-    ifstream inputFile {"test.txt"};
+    ifstream inputFile {"assets/test.txt"};
     if (!inputFile)
     {
         cerr << "Error while opening file" << endl;
