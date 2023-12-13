@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/xexeed/Projekts/Advent_of_Code/2023/Day1/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Day1.dir/main.cc.o -c /home/xexeed/Projekts/Advent_of_Code/2023/Day1/main.cc",
+  "file": "/home/xexeed/Projekts/Advent_of_Code/2023/Day1/main.cc",
+  "output": "CMakeFiles/Day1.dir/main.cc.o"
+}
+]
